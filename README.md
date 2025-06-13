@@ -11,3 +11,15 @@ This experiment is a response to that tension. It aims to amplify the humanness�
 When you use this tool, an AI-generated image is created completely without your control. You don’t choose the style, the subject, or the colors. There is no prompt, no guidance, no human hand in the process at all. It is pure AI output. In doing so, this experiment pushes AI art to its furthest, most unsettling edge.
 
 This is what true AI-generated art looks like—not what you carefully crafted using ChatGPT or image tools, but something entirely autonomous. It’s not just an artistic statement—it’s a moral and ethical provocation.
+
+
+# Tweet
+
+Stop airdrop farming,
+
+I’m giving 800 USDC to anyone who can spot the AI-generated image between these two images
+
+Here's the thing, both of them were generated using ai. 
+But I can [ZK] prove one of them had no human involved in the process at all.
+
+Drop any addr (eth/sol) below
